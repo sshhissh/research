@@ -1,0 +1,4 @@
+Definitions of "normal" QTc vary among being equal to or less than 0.40 s (¡Â400ms),0.41s (¡Â410ms),0.42s (¡Â420ms)or 0.44s (¡Â440ms).
+For risk of sudden cardiac death, "Borderline QTc" in males is 431-450 ms, and in females 451-470 ms. 
+An "abnormal" QTc in males is a QTc above 450 ms, and in females, above 470 ms.
+
